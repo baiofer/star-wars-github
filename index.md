@@ -10,3 +10,8 @@ Segunda trilogía:
 * Episodio 3: El ataque de los clones (2002)
 * Episodio 3: La venganza de los Siht (2005)
 
+Tercera trilogía:
+* Episodio 7: El despertar de la fuerza (2015)
+* Episodio 8: Los últimos Jedi (2017)
+* Episodio 9: El ascenso de Skywalker (2019)
+
