@@ -2,5 +2,5 @@
 
 *Obi-Wan* reaparece para ayudar a los rebeldes.
 La *Princese Leia* usa a *R2D2* para pedir ayuda.
-
+*Luke^* y *Obi-Wan* necesitan salir de *Tatooine*
 
